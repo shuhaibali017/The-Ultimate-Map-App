@@ -1,0 +1,26 @@
+/*IconMenu.css*/
+.icon-menu {
+    position: absolute;
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    font-family: Arial, sans-serif;
+    z-index: 1000;
+  }
+  
+  .menu-close {
+    position: absolute;
+    top: 5px;
+    right: 8px;
+    cursor: pointer;
+    font-size: 18px;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .menu-close:hover {
+    color: #f44336;
+  }
+  
